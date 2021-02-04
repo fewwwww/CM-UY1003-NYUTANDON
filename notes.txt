@@ -35,12 +35,12 @@ ATOMS/MOLECULES/IONS:
     periodic table: num means Z
         column: groups
             classification: 
-                main group: 1, 2, 13–18
+                main group: 1, 2, 13-18
                     Alkali metals: 1(except H)
                     Alkaline earth metals: 2
                     Chalcogens: 16
                     Halogens: 17
-                    Noble Gases: ·8
+                    Noble Gases: 8
                 transition metals: 3-13
                 inner transition metals: bottom(Lanthanides, Actinides)
 
