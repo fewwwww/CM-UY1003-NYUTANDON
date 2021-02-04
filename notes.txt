@@ -1,0 +1,24 @@
+ESSENTIAL CONCEPTS:
+
+    matter: anything occupies space and has mass
+    substance: form of matter has definite composition and distinct property
+    state of matter: pure/mixture, solid(condensed phases)/liquid(condensed phases, fluids)/gas(fluids)
+    atom/Element/molecule: O/O2/H2O
+    compounds: two or more elements
+
+    pure substance: cannot be seperated into simpler substances by chemical process
+    mixture: two or more substances(retain distinct identities)
+        (1) Homogeneous: milk
+        (2) Heterogeneous: not uniform throughout
+
+    property of matter: (1) intensive: independent(color)
+                        (2) extensive: volume/mass
+
+MEASUREMENT:
+    temperature: K = C + 273.15, F = 9C/5 + 32
+
+    add: significant figures after decimal
+
+    multiply: smallest sig fig
+
+    uncertainty in measurement:
