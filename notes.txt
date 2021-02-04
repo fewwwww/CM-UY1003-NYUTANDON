@@ -1,5 +1,4 @@
 ESSENTIAL CONCEPTS:
-
     matter: anything occupies space and has mass
     substance: form of matter has definite composition and distinct property
     state of matter: pure/mixture, solid(condensed phases)/liquid(condensed phases, fluids)/gas(fluids)
@@ -18,7 +17,24 @@ MEASUREMENT:
     temperature: K = C + 273.15, F = 9C/5 + 32
 
     add: significant figures after decimal
-
     multiply: smallest sig fig
 
-    uncertainty in measurement:
+    exact num: have infinite num of sig fig 
+    accuracy/precision: how close to true value/how close measurements are to each other
+
+    conversion factor: 1in = 2.54cm, 1/2.54
+
+ATOMS/MOLECULES/IONS:
+    atomic number(Z): num of protons in nucleus
+    electron: equal to num of protons
+    mass number(A): num of protons + num of neutrons
+    isotopes: atoms of same element with different A
+    A \/
+    Z /\
+
+    periodic table: num means Z
+                    row: periods，电子层数
+                    column: groups，外层电子数
+                        A: main group
+                        B: transition group
+                    metals/metalloids/nonmetals: ../shining, conductor/..
