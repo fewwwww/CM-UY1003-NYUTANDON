@@ -26,15 +26,27 @@ MEASUREMENT:
 
 ATOMS/MOLECULES/IONS:
     atomic number(Z): num of protons in nucleus
-    electron: equal to num of protons
+    electron: equal to num of protons if neutral
     mass number(A): num of protons + num of neutrons
     isotopes: atoms of same element with different A
     A \/
     Z /\
 
     periodic table: num means Z
-                    row: periods，电子层数
-                    column: groups，外层电子数
-                        A: main group
-                        B: transition group
-                    metals/metalloids/nonmetals: ../shining, conductor/..
+        column: groups
+            classification: 
+                main group: 1, 2, 13–18
+                    Alkali metals: 1(except H)
+                    Alkaline earth metals: 2
+                    Chalcogens: 16
+                    Halogens: 17
+                    Noble Gases: ·8
+                transition metals: 3-13
+                inner transition metals: bottom(Lanthanides, Actinides)
+
+        row: periods
+        metals/metalloids/nonmetals: lose electrons,good conductor/gain/gain,poor conductor
+
+    molecule: two or more atoms
+        diatomic: only two atoms, H2
+        polyatomic: more than two atoms, H2O
