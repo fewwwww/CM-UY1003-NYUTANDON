@@ -31,6 +31,7 @@ ATOMS/MOLECULES/IONS:
     isotopes: atoms of same element with different A
     A \/
     Z /\
+    Al3+, proton = n, electron = n-3
 
     periodic table: num means Z
         column: groups
@@ -49,4 +50,27 @@ ATOMS/MOLECULES/IONS:
 
     molecule: two or more atoms
         diatomic: only two atoms, H2
-        polyatomic: more than two atoms, H2O
+        polyatomic: more than two atoms, H2O, O3
+    
+    allotrope: one of 2 or + distinct forms of element. O2/O3
+
+    compounds: 
+        molecular compound: nonMetal + nonMetal
+        Ionic compound: Metal + nonMetal (NaCl)
+            with cation and anion then net charge 0
+
+    Ion: atom or group of atom has net charge
+        cation: loses electron Na+(11 protons 10 electrons) Na(11,11)
+            1A-3A = lose n electron
+        anion: gains electron Na-(11/12)
+            5A-7A = gains 8-n electron 
+        monotomic/polyatomic: Na+/OH-
+    
+    empirical formula: simplest formula
+
+    acid: a substance that yields hydrogen ions (H+) when dissolved in water. (HCL)
+    oxoacid: an acid that contains hydrogen, oxygen, and another element. (H2SO4)
+    base: a substance that yields hydroxide ions (OH-) when dissolved in water. (NaOH)
+    hydrates: compounds that have water molecules attached to solid structure. (CuSO4•5H2O)
+
+    
