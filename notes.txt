@@ -73,4 +73,11 @@ ATOMS/MOLECULES/IONS:
     base: a substance that yields hydroxide ions (OH-) when dissolved in water. (NaOH)
     hydrates: compounds that have water molecules attached to solid structure. (CuSO4•5H2O)
 
-    
+STOICHIOMETRY:
+    atomic mass: mass of an atom in amu (1 atom 12C = 12amu)
+    molecular mass = sum(atomic mass)
+
+    1 mole = 6.022*10^23 atoms
+    molar mass(in gram/mol) = amu
+
+    1 mole C3H8O = 8 mole H
