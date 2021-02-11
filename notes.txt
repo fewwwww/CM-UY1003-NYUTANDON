@@ -55,7 +55,7 @@ ATOMS/MOLECULES/IONS:
     allotrope: one of 2 or + distinct forms of element. O2/O3
 
     compounds: 
-        molecular compound: nonMetal + nonMetal
+        covalent compound: nonMetal + nonMetal (HCL)
         Ionic compound: Metal + nonMetal (NaCl)
             with cation and anion then net charge 0
 
