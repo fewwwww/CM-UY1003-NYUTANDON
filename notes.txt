@@ -81,3 +81,15 @@ STOICHIOMETRY:
     molar mass(in gram/mol) = amu
 
     1 mole C3H8O = 8 mole H
+
+BALANCING CHEMICAL EQUATION:
+    REACTANT ->  PRODUCT
+    2Mg + 1O2 -> 2MgO
+    2 mole Mg + 1 mole O2 -> 2 mole MgO
+    mass->mole->mole->mass
+
+    physical state:
+        aq: aqua, g: gas, s: solid, l: liquid(water)
+
+    reaction yield: actual/theoretical * 100%
+    limiting/excess reactant
