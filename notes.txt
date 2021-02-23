@@ -94,3 +94,37 @@ BALANCING CHEMICAL EQUATION:
     reaction yield: actual/theoretical * 100%
     limiting/excess reactant
 
+SOLUTION:
+    solute: substance in smaller amount
+    solvent: substance in larger amount
+    
+    electronlyte: yield solution conducts electricity
+        ionic compound
+        cation (+) and anion (-)
+        dissolve in water
+    nonelectronlyte: not conduct electricity
+        no cation and anion in solution
+
+    dissociation: ionic compound breaks apart into constituent ions
+    ionization: molecular compound forms ions when dissolve (HCL->H+Cl)
+        reversible reaction: CH3COOH -> <- CH3COO + H
+    
+    precipitation: solid product seperate form solution
+    hydration: combining substance with water molecule
+    combustion: (hydrocarbon + O2 -> CO2 + H2O)
+    neutralization: H+ transferred (AH + B -> A + BH)
+        acid + base -> salt + water
+    redox: e- transferred 
+        oxidation is loss electron, reduction is gained electron
+        (Zn + Cu2+ -> Zn2+ + Cu) 
+        Zn reducing agent donate electron, Cu oxidizing agent accept electron
+        (H2 + F2 -> 2HF)
+        oxidation number:
+            mostly zero/charge on the ion
+            O usually -2
+    metathesis/double replacement: AB + CD -> AD + CB
+    decomposition/combination: A + B -> AB, AB -> A + B
+
+    molecular equation: AB + CD -> AC + BD
+    ionic equation: A + B + C + D -> A + C + BD (s)
+    net equation: B + D -> BD (s)
