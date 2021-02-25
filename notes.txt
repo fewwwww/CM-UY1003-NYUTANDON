@@ -128,3 +128,16 @@ SOLUTION:
     molecular equation: AB + CD -> AC + BD
     ionic equation: A + B + C + D -> A + C + BD (s)
     net equation: B + D -> BD (s)
+
+CONCENTRATION:
+    molarity: M = moles solute/liters solution
+        mass = M * V * molar mass
+    dilution: MiVi = MfVf
+
+    concentration in reaction: Na2SO4 -> 2Na (double M)
+        [Na2CO3] = [Na] * 1molNa2CO3/2molNa
+
+    acid-base titration: 酸碱指示剂
+        standard solution added to unknown solution
+        n1M1V1(acid) = n2M2V2(base) (n is number of H/OH)
+    
