@@ -140,4 +140,34 @@ CONCENTRATION:
     acid-base titration: 酸碱指示剂
         standard solution added to unknown solution
         n1M1V1(acid) = n2M2V2(base) (n is number of H/OH)
+
+GASES:
+    Pressure = 760 mmHg = 1 atm = 760 torr
+    P1V1 = P2V2
+    V1/T1 = V2/T2 (T kelvin = 273.15 + oC)
+    V1/n1 = V2/n2
+    ideal gas equation: PV=nRT (R 0.082 l*atm/mol*K)
+    standard pressure: 0 celsius, 1 atm
+    P1V1/n1T1 = P2V2/n2T2
+    d(m/v) = PM/RT (M molar mass)
+
+    reaction then volume: V = nRT/P
+
+    dalton's law: Ptotal = sum(Pi)
+        Pi = niRT/V
+        fractionA = nA/ntotal or PA/Ptotal
+        PA = fractionA * Ptotal
+
+THERMO:
+    energy: capacity to do work
+        heat: transfer of thermal energy
+        temperature: measure of thermal energy
+            t != thermal energy
+
+    system + surrounding = universe
+        open(vapor,heat)/closed(heat)/isolated
     
+    exothermic process: H2 + O2 -> H2O + energy
+    endothermic process: energy + HgO -> Hg + O2
+    
+    1Cal = 1kcal = 1000cal
