@@ -171,3 +171,23 @@ THERMO:
     endothermic process: energy + HgO -> Hg + O2
     
     1Cal = 1kcal = 1000cal
+    change: changeU = Uf - Ui = q(heat) + w(work)
+
+    enthalpy: increase pressure after reaction
+        w = -PchangeV
+        differenceU = q - PchangeV
+        q at constant p = changeH
+    changeH = Hproduct - Hreactant
+
+    mole * changeH = mole * x kj/mol
+
+CALORIMETRY:
+    specific heat(s) = raise 1 degree celsius of 1g of substance
+        J/g*celsius
+    heat capacity(C) = heat required to raise 1 celsius of object
+        J/celsius
+    
+    C = sm
+    q = s*m*changeT = C*changeT
+    qsys = -sm*changeT = -qsurr
+    changeH = qrxn
