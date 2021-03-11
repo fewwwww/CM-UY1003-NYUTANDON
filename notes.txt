@@ -188,6 +188,28 @@ CALORIMETRY:
         J/celsius
     
     C = sm
-    q = s*m*changeT = C*changeT
+    *** q = s*m*changeT = C*changeT
     qsys = -sm*changeT = -qsurr
     changeH = qrxn
+    m1s1changeT1=mwaterswaterchangeTwater
+    *** qsolution = -qreaction
+    qsys = qwater+qbomb+qrxn
+        qwater=smchangeT (sometimes zero)
+        qbomb=CbombchangeT
+        qrxn=-(qwater+qbomb)
+    
+    standard enthalpies of formation:
+        changeH'f(O2) = 0 at 1atm, 25'C, 1 mol
+        aA+bB -> cC+dD
+        changeH = (cchangeH(c)+dchangeH(d)) - (achangeH(a)+bchangeH(b))
+        *** changeH/mol of substance -> result/amu -> kj/g
+
+    Hess's law: 
+        add changeH together to get overall changeH
+        left+left->right+right
+
+ATOMS:
+    principal quantum number(n) = energy level/orbiting circle
+    angular momentum quantum number(l): range from 0 to n-1 for n=n
+        0/1/2/3=spdf
+    magnetic quantum number(ml): -l...0...+l for l=l
